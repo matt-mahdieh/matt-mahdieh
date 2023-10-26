@@ -19,8 +19,6 @@
 
 ## 📊 GitHub Activity 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/onqlavelabs/pre-commit-golang/pull/1) in [onqlavelabs/pre-commit-golang](https://github.com/onqlavelabs/pre-commit-golang)
-2. 💪 Opened PR [#1](https://github.com/onqlavelabs/pre-commit-golang/pull/1) in [onqlavelabs/pre-commit-golang](https://github.com/onqlavelabs/pre-commit-golang)
 <!--END_SECTION:activity-->
 
 ## 📊GitHub Stats :
