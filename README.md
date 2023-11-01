@@ -1,10 +1,10 @@
 # Hey I'm Matt 👋,  
 <h3 align="left">Software Engineer ✨ Cloud Native Enthusiast ✨ Software Architect ✨ Book Addict ✨</h3>
 
-- 🔭 I'm the founder of [Onqlave](https://onqlave.com)
+- 🔭 I'm tech founder @ [Onqlave](https://onqlave.com)
 - 💬 I'm reading [We Have Root](https://www.amazon.com/We-Have-Root-Schneier-Security/dp/1119643015)
 - 📫 Socials [![Twitter Badge](https://img.shields.io/badge/-@Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=mattmahdieh "Follow on Twitter") [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mmahdieh "Follow on LinkedIn")
-- 👥 How to reach me? [Email me](matt@onqlave.com)
+- 👥 How to reach me? [Email me](m.mahdiyeh@gmail.com)
 
 ## 💻Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -26,8 +26,8 @@
 <br>![](https://github-readme-streak-stats.herokuapp.com/?user=mattmahdieh&theme=dark&hide_border=false&show_icons=true)<br/>
 <br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=mattmahdieh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true)</br>
 
-<!-- <br><img src="https://metrics.lecoq.io/mattmahdieh"></br> -->
+<!-- <br><img src="https://metrics.lecoq.io/matt-mahdieh"></br> -->
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=mattmahdieh&label=Profile%20Views&color=12&icon=1&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=matt-mahdieh&label=Profile%20Views&color=12&icon=1&pretty=true)](https://visitcount.itsvg.in)
